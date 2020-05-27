@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "luV5fpDVIFk4UajWO0RNoLWwVV6b+4gEZ/f5oYI0qJcADSc2r+vUtO6fetpIMNVXgCvReak+8MVMXhr8tmOwZQ==",
+  "success": true,
+  "projectFilePath": "E:\\GitRepo\\SimpleSharpTools\\SimpleSharpTool\\CoreWeb\\CoreWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\node.js\\5.3.0\\node.js.5.3.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\nogit\\0.1.0\\nogit.0.1.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\npm\\3.5.2\\npm.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

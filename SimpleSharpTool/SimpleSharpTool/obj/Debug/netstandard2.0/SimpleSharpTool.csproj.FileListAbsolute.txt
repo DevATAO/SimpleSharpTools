@@ -1,0 +1,6 @@
+E:\GitRepo\SimpleSharpTools\SimpleSharpTool\SimpleSharpTool\bin\Debug\netstandard2.0\SimpleSharpTool.deps.json
+E:\GitRepo\SimpleSharpTools\SimpleSharpTool\SimpleSharpTool\bin\Debug\netstandard2.0\SimpleSharpTool.dll
+E:\GitRepo\SimpleSharpTools\SimpleSharpTool\SimpleSharpTool\obj\Debug\netstandard2.0\SimpleSharpTool.csprojAssemblyReference.cache
+E:\GitRepo\SimpleSharpTools\SimpleSharpTool\SimpleSharpTool\obj\Debug\netstandard2.0\SimpleSharpTool.AssemblyInfoInputs.cache
+E:\GitRepo\SimpleSharpTools\SimpleSharpTool\SimpleSharpTool\obj\Debug\netstandard2.0\SimpleSharpTool.AssemblyInfo.cs
+E:\GitRepo\SimpleSharpTools\SimpleSharpTool\SimpleSharpTool\obj\Debug\netstandard2.0\SimpleSharpTool.csproj.CoreCompileInputs.cache
